@@ -109,8 +109,8 @@ header.masthead .masthead-content .masthead-subheading {
 }
 
 .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
-  box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(227, 186, 179, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(227, 186, 179, 0.5);
 }
 
 .btn-secondary {
